@@ -1,2 +1,3 @@
 print('hello world')
-print('hello universe)
+print('hello universe')
+print('easy to work')
