@@ -36,4 +36,4 @@ pytorch=1.0.0 DB18 python 3.7.3
 
 ~~训练模型\temp\QNLI 和 DATA4\pytorch-pretrained-BERT\model 下~~
 
-训练模型来找我要吧，也可以烧实验室GPU. :)
+训练模型来找我要吧，也可以烧实验室GPU  :)
