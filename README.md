@@ -6,7 +6,7 @@
 
 ```
 (nlp) tfhou@DB18:/DATA4_DB3/data/tfhou/pytorch-pretrained-BERT-master/examples$ 
-CUDA_VISIBLE_DEVICES=4 python run_classifier.py   \
+CUDA_VISIBLE_DEVICES=4 python run_train.py   \
 --task_name $TASK_NAME  \
 --do_train   --do_eval  \
 --do_lower_case   --data_dir $GLUE_DIR/$TASK_NAME \
